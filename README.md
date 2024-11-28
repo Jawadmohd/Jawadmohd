@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Abdul Jaawaad Hassan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 📫 How to reach me **jawadmohd706@gmail.com**
+- 📫 How to reach me **jawadmohd2706@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
