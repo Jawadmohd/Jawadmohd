@@ -108,7 +108,7 @@ Property listing platform inspired by Airbnb.
 ## Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/jawaadmohd">
+<a href="https://www.linkedin.com/in/jawaadmohd/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -120,7 +120,7 @@ Property listing platform inspired by Airbnb.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-seven-psi-72.vercel.app/">
+<a href="https://jawaadmohd-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
